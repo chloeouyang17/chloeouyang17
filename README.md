@@ -1,6 +1,8 @@
-* 🤗 Hello! I'm Runze Ouyang, but you can call me Chloe. With a growth mindset and a passion for stepping outside my comfort zone, my journey has been nothing short of transformative.
-* 🙌 I possess a solid background in software engineering, having experience in both full-stack and mobile application development. I am actively seeking a full-time, entry-level software engineer position. I am confident in my capability to meet and surpass any challenges that come my way in my professional journey.
-* 👩🏻‍🎓 My undergraduate degree is from Babson College, the #1 ranked business school for entrepreneurship. Among my multiple entrepreneurial experiences, my mobile app startup experience not only exposed me to the transformative power of technology but also ignited my desire to be at the forefront of creating impactful digital solutions. I successfully launched a social media platform that garnered over 10,000 users without promotion. This experience fostered a profound admiration for the magic of code.
-* 👩🏻‍💻 I decided to switch to programming from zero. In my first year of a big data-related master's degree at NYU, I earned a consecutive 4.0 GPA. In my second year, I moved towards becoming a software programmer and took many computer-related courses. I have a strong learning ability and am curious about new technologies. My background in business, combined with my technical skills in Java, JavaScript, React, Spring Boot, etc, will help the company develop better products and enhance user experiences. 
+* 💻 I am a results-driven Software Engineer with a Master’s degree from NYU and 8 years of coding experience, specializing in building scalable, user-centric applications across web and mobile platforms.
+
+* 🚀 At Beatbot, I designed modular Android architectures with Kotlin + Jetpack Compose, optimized cross-device performance, and built reusable UI systems that power IoT-enabled robot products generating over $40M in annual revenue. Previously, I founded a mobile-first social networking app that organically reached 10,000+ users, showcasing my ability to lead teams, innovate quickly, and deliver impactful products from scratch.
+
+* 🛠️ My technical toolkit spans Java, Kotlin, Python, Go, JavaScript, React, and Spring Boot, with hands-on experience in AWS, GCP, and microservices. I am passionate about blending technical depth with product insight—bridging my entrepreneurial background and engineering expertise to create software that scales, delights users, and drives business value.
+
 * 📫 How to reach me: chloeouyang26@gmail.com
 
