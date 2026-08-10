@@ -1,8 +1,8 @@
-* 💻 I am a results-driven Software Engineer with a Master’s degree from NYU and 8 years of coding experience, specializing in building scalable, user-centric applications across web and mobile platforms.
+* 💻 I am an AI Engineer specializing in production LLM systems, with experience building multimodal AI applications, retrieval-augmented generation (RAG) pipelines, and agentic AI systems across Python and Java backends.
 
-* 🚀 At Beatbot, I designed modular Android architectures with Kotlin + Jetpack Compose, optimized cross-device performance, and built reusable UI systems that power IoT-enabled robot products generating over $40M in annual revenue. Previously, I founded a mobile-first social networking app that organically reached 10,000+ users, showcasing my ability to lead teams, innovate quickly, and deliver impactful products from scratch.
+* 🚀 At VortexNet, I engineered an end-to-end AI platform that transforms medical records into structured, searchable knowledge. I built multimodal extraction pipelines with Vision-Language Models, hybrid retrieval over PostgreSQL and pgvector, and source-grounded RAG systems serving 500K+ targeted health records, reducing manual chart review by approximately 80%. I also deployed self-hosted LLM infrastructure with vLLM, optimized inference through LoRA fine-tuning, and built scalable AI services using FastAPI, Spring Boot, Docker, Redis, and AWS.
 
-* 🛠️ My technical toolkit spans Java, Kotlin, Python, Go, JavaScript, React, and Spring Boot, with hands-on experience in AWS, GCP, and microservices. I am passionate about blending technical depth with product insight—bridging my entrepreneurial background and engineering expertise to create software that scales, delights users, and drives business value.
+* 💡 Before transitioning into AI, I was a founder and full-stack engineer who built a mobile social platform that grew organically to 10K+ users with zero paid marketing. That entrepreneurial experience shaped my product mindset, enabling me to combine deep engineering with strong user intuition. Today, I enjoy building AI systems that are not only technically sophisticated but also practical, scalable, and impactful.
 
 * 📫 How to reach me: chloeouyang26@gmail.com
 
